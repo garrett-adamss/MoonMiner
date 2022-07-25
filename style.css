@@ -23,3 +23,7 @@ body{
     border-radius: 4px;
     /* box-shadow: 2px black; */
  }
+.moon:hover{
+    transform: translateY(-4px);
+    transform: scale(1.03);
+ }

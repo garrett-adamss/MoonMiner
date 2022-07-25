@@ -1,0 +1,25 @@
+body{
+    background-image: url(https://lh3.googleusercontent.com/EN9Fs_obpehxsm78L1JZVUsksxQ9nLd2d9BTiesICSVOhQ1exFbpuHs1Bzi9UdxExitnLSkJWUhR5_KYDe5iuR_5U3nT-AMtJKI6Aw=w600);
+    background-image: url(https://64.media.tumblr.com/f59867ea0781a951f5b51712e91ba01a/f145147b69889cf3-5e/s640x960/043bb2008715b303727281615d6ead2d12a8712a.gifv);
+    background-image: url(https://tuckerandmikesgnarlyextremeblog.files.wordpress.com/2017/03/9ca14e23ebbc1fc56d6ee16ef04c87f2_super-rare-8-bit-pepe-8-bit-space-background-gif_493-277.gif);
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+}
+.upgrade-photo{
+   height: 7em;
+   object-fit: scale-down;
+   object-position: center;
+   margin: 0!important;
+}
+.buy-card{
+    border: 3px solid;
+    border-radius: 4px;
+    border-color: #FCFDCB;
+}
+.buy-card:hover{
+    transform: translateY(-4px);
+    outline: 1.5px solid whitesmoke;
+    border-radius: 4px;
+    /* box-shadow: 2px black; */
+ }
